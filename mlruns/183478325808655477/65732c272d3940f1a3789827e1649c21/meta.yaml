@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/183478325808655477/65732c272d3940f1a3789827e1649c21/artifacts
+deleted_time: 1700044560357
+end_time: 1700044347548
+entry_point_name: ''
+experiment_id: '183478325808655477'
+lifecycle_stage: deleted
+run_id: 65732c272d3940f1a3789827e1649c21
+run_name: able-crow-308
+run_uuid: 65732c272d3940f1a3789827e1649c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700044338950
+status: 3
+tags: []
+user_id: tangs

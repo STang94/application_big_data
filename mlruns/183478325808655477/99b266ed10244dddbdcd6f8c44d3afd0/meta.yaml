@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/183478325808655477/99b266ed10244dddbdcd6f8c44d3afd0/artifacts
+end_time: 1700045590884
+entry_point_name: ''
+experiment_id: '183478325808655477'
+lifecycle_stage: active
+run_id: 99b266ed10244dddbdcd6f8c44d3afd0
+run_name: dazzling-auk-965
+run_uuid: 99b266ed10244dddbdcd6f8c44d3afd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700045582255
+status: 3
+tags: []
+user_id: tangs

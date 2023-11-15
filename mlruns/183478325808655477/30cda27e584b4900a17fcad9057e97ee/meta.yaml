@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/183478325808655477/30cda27e584b4900a17fcad9057e97ee/artifacts
+deleted_time: 1700044564363
+end_time: 1700044374675
+entry_point_name: ''
+experiment_id: '183478325808655477'
+lifecycle_stage: deleted
+run_id: 30cda27e584b4900a17fcad9057e97ee
+run_name: persistent-stork-464
+run_uuid: 30cda27e584b4900a17fcad9057e97ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700044371042
+status: 3
+tags: []
+user_id: tangs

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/446636443373765095/92d0c18827e94996bc39e2652199d68e/artifacts
+deleted_time: 1700041229700
+end_time: 1700041181644
+entry_point_name: ''
+experiment_id: '446636443373765095'
+lifecycle_stage: deleted
+run_id: 92d0c18827e94996bc39e2652199d68e
+run_name: nervous-pug-74
+run_uuid: 92d0c18827e94996bc39e2652199d68e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700041181547
+status: 3
+tags: []
+user_id: tangs

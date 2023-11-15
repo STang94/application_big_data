@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/389645318088192245
+creation_time: 1700052429480
+experiment_id: '389645318088192245'
+last_update_time: 1700052429480
+lifecycle_stage: active
+name: ML_EXP_WITH_DVC

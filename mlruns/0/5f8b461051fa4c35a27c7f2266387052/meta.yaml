@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5f8b461051fa4c35a27c7f2266387052/artifacts
+end_time: 1700040571135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f8b461051fa4c35a27c7f2266387052
+run_name: auspicious-pug-980
+run_uuid: 5f8b461051fa4c35a27c7f2266387052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700040571016
+status: 3
+tags: []
+user_id: tangs

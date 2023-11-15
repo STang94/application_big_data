@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/183478325808655477/d94a88509fc5491fbcf8a2e5bdc4047b/artifacts
+end_time: 1700044986842
+entry_point_name: ''
+experiment_id: '183478325808655477'
+lifecycle_stage: active
+run_id: d94a88509fc5491fbcf8a2e5bdc4047b
+run_name: run_2023/11/15_11:43:00
+run_uuid: d94a88509fc5491fbcf8a2e5bdc4047b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700044980636
+status: 3
+tags: []
+user_id: tangs
