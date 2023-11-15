@@ -4,3 +4,4 @@
 .dvc
 venv
 mlartifacts
+mlruns
